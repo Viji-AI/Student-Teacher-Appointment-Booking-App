@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student-Teacher-Appointment-Booking-App/static/css/main.1081b4a9.css",
+    "main.js": "/Student-Teacher-Appointment-Booking-App/static/js/main.bdfd183f.js",
+    "index.html": "/Student-Teacher-Appointment-Booking-App/index.html",
+    "main.1081b4a9.css.map": "/Student-Teacher-Appointment-Booking-App/static/css/main.1081b4a9.css.map",
+    "main.bdfd183f.js.map": "/Student-Teacher-Appointment-Booking-App/static/js/main.bdfd183f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1081b4a9.css",
+    "static/js/main.bdfd183f.js"
+  ]
+}
