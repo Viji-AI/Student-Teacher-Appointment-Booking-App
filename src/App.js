@@ -42,9 +42,9 @@ function AppRoutes() {
           <Route path="/admin" element={<AdminWelcome />} />
           <Route path="/admin-panel" element={<AdminPanel />} />
           <Route path="/admin-approvals" element={<AdminApprovals />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/privacy" element={<Privacy />} />
+          <Route path="/#/about" element={<About />} />
+          <Route path="/#/contact" element={<Contact />} />
+          <Route path="/#/privacy" element={<Privacy />} />
         </Routes>
       </div>
 

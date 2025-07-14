@@ -11,13 +11,13 @@ export default function Footer() {
 
         <ul className="nav">
           <li className="nav-item">
-            <a className="nav-link px-2 text-white" href="/about">About</a>
+            <a className="nav-link px-2 text-white" href="/#/about">About</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link px-2 text-white" href="/contact">Contact</a>
+            <a className="nav-link px-2 text-white" href="/#/contact">Contact</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link px-2 text-white" href="/privacy">Privacy</a>
+            <a className="nav-link px-2 text-white" href="/#/privacy">Privacy</a>
           </li>
         </ul>
       </div>
